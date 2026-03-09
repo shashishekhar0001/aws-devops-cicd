@@ -1,6 +1,8 @@
-# 🚀 AWS DevOps CI/CD Pipeline Project
+![CI/CD](https://github.com/shashishekhar0001/aws-devops-cicd/actions/workflows/deploy.yml/badge.svg)
 
-## 📌 Project Overview
+# AWS DevOps CI/CD Pipeline Project
+
+## Project Overview
 
 This project demonstrates a complete **CI/CD pipeline for a containerized web application** using modern DevOps tools and AWS services.
 
@@ -12,7 +14,7 @@ Whenever new code is pushed to GitHub, the pipeline automatically:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 * Docker
 * Kubernetes (Minikube)
@@ -22,7 +24,7 @@ Whenever new code is pushed to GitHub, the pipeline automatically:
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```
 Developer
@@ -44,7 +46,7 @@ Running Web Application
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 aws-devops-cicd
@@ -62,7 +64,7 @@ aws-devops-cicd
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repository
 2. Build the Docker image
@@ -71,7 +73,7 @@ aws-devops-cicd
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Building containerized applications with Docker
 * Managing container images using AWS ECR
